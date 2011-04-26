@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="java" deleted="false" description="new HashMap" enabled="true" name="Maphash">Map&lt;${K}, ${V}&gt; ${map} = new HashMap&lt;${K}, ${V}&gt;();${:import(java.util.Map, java.util.HashMap)}</template></templates>

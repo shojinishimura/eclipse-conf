@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="java" deleted="false" description="new LinkedList" enabled="true" name="Listlinked">List&lt;${T}&gt; ${name} = new LinkedList&lt;${T}&gt;();${:import(java.util.List, java.util.LinkedList)}</template></templates>

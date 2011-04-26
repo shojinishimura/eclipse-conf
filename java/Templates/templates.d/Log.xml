@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="java-members" deleted="false" description="Log" enabled="true" name="Log">private static final Log log = LogFactory.getLog(${enclosing_type}.class);${:import(org.apache.commons.logging.Log, org.apache.commons.logging.LogFactory)}</template></templates>
